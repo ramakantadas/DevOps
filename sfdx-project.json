@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://ap17.salesforce.com/setup/forcecomHomepage.apexp?setupid=ForceCom",
+  "sourceApiVersion": "50.0"
+}
